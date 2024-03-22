@@ -1,0 +1,88 @@
+.institute-logo {
+    width: 170px;
+  }
+
+.f-top-m {
+    margin-top: 90px;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.top-main button:focus {
+    outline: none !important;
+}
+
+.topbar-nav .navbar-toggler img {
+    width: 28px;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.top-main {
+    height: 99px;
+}
+
+.topbar-nav {
+    z-index: 999;
+    background-color: #fff;
+    top: 0;
+}
+
+.cat-item {
+    margin: 0 20px;
+}
+
+@media only screen and (max-width: 990px) {
+    .join-now {
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .h5 {
+        font-size: 16px !important;
+    }
+
+    h1 {
+        font-size: 23px;
+    }
+
+    h5 {
+        font-size: 15px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .testimonial-carousel .owl-dot {
+        height: 7px;
+        width: 7px;
+    }
+
+    .f-top-m {
+        margin-top: 50px;
+    }
+
+    .institute-logo {
+        width: 120px;
+    }
+
+    .carousel-indicators li {
+        height: 8px;
+        width: 8px;
+        border: 2px solid #fff;
+    }
+
+    .top-main {
+        height: 100%;
+    }
+
+    .form-control {
+        font-size: 14px;
+    }
+}
